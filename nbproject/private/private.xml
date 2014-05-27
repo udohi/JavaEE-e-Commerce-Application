@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/cart/ShoppingCart.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/adminLogin.jsp</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/WEB-INF/view/admin.jsp</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/ConfirmOrderServlet.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/conf/persistence.xml</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/ShoppingCartServlet.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/entity/Product.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/home.jsp</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/ViewProductServlet.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/WEB-INF/view/viewProduct.jsp</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/UpdateCart.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/CategoryServlet.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/AdminServlet.java</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/WEB-INF/view/billing.jsp</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/web/WEB-INF/view/shoppingcart.jsp</file>
+            <file>file:/C:/Users/joseph/Documents/NetBeansProjects/TrainersDirect/src/java/com/ShoppingCartController.java</file>
+        </group>
+    </open-files>
+</project-private>

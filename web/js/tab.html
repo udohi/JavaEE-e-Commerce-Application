@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+    <title>tab demo</title>
+    <script src="jquery-1.9.1.js"></script>
+    <script src="jquery-ui.custom.js"></script>
+    <link rel="stylesheet" href="jquery-ui.css" />
+    <script>
+			$(document).ready(function(){
+					$("#tabs").tabs();
+				});
+	</script>
+</head>
+<body>
+		<div id="tabs">
+        				<ul>
+                        	<li><a href="#new_user">NewUser SignUp</a></li>
+                            <li><a href="#old_user">OldUser SignIn</a></li>
+                        </ul>
+                        
+                        <div id="new_user">
+                        
+                        				  <div id="frm_login">
+                        				<label id="login_header"
+              					<table cellspacing="20px"align="center">
+                               				
+                             
+                                	<tr align="center">
+                                    	<td><label>E-mail Address:</label></td>
+                                        <td><input type="text" placeholder="example@email.com" id="email_detail" required /></td>
+                                    </tr>
+                                	<tr align="center">
+                                    	<td><label>Username:</label></td>
+                                        <td><input type="text" placeholder="Username" id="user_detail" min="6" maxlength="20" required /></td>
+                                    </tr>
+                                    <tr align="center">
+                                    	<td><label>Password:</label></td>
+                                        <td><input type="password" placeholder="********" id="user_detail" required /></td>
+                                     </tr>
+                                     <tr align="center">
+                                    	<td><label>Confirm Password:</label></td>
+                                        <td><input type="password" placeholder="********" id="email_detail" required /></td>
+                                     </tr>
+                                     
+                                     <tr align="center">
+                                     	<td><label style="color:rgb(0,0,153); text-decoration:blink; font-size:12px;">New User</label></td>
+                                        <td><input type="submit" id="my_button" value="LogIn" /><input type="reset" id="my_button" value="Reset" /></td>
+                                     <tr>
+                                </table>
+            			</div>
+                        
+                        
+                        
+                        </div>
+                        <div id="old_user">this is old user signin tab</div>
+			
+		</div>
+</body>
+</html>
