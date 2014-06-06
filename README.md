@@ -30,6 +30,7 @@ REQUIREMENTS
 
 
 INSTALLATION 
+
 •	Unzip the downloaded file.
 
 •	Create a Web Application project in Netbeans  and select GlassFish 4 and JavaEE7 as the server and JavaEE version for the server settings
@@ -49,7 +50,7 @@ INSTALLATION
 
 RESOLVE THE REFERENCING PROBLEMS IF ANY
 
-•	 On Netbeans go to Tools --> Options --> Miscallenous -->  Ant
+•	 On Netbeans go to Tools --> Options --> Java -->  Ant
 
 •	Put the property  libs.CopyLibs.classpath=[Netbeans Install]\NetBeans7.4\java\ant\extra\org-netbeans-modules-java-j2seproject-copylibstask.jar
 
