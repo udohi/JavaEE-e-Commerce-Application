@@ -52,7 +52,8 @@ RESOLVE THE REFERENCING PROBLEMS IF ANY
 
 •	 On Netbeans go to Tools --> Options --> Java -->  Ant
 
-•	Put the property  libs.CopyLibs.classpath=[Netbeans Install]\NetBeans7.4\java\ant\extra\org-netbeans-modules-java-j2seproject-copylibstask.jar
+•	Put the property :
+libs.CopyLibs.classpath=[NetbeansInstall]\NetBeans7.4\java\ant\extra\org-netbeans-modules-java-j2seproject-copylibstask.jar
 
 
 
